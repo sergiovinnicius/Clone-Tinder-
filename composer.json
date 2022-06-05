@@ -1,0 +1,12 @@
+{
+
+   "autoload":{
+       "psr-4":{
+         "Sergio\\": "lib/SergioVinni"
+} 
+
+   },
+   "require": {
+      "cboden/ratchet": "^0.4.4"
+   }
+}
